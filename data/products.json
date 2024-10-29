@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Canon Camere", "price": 200.99, "description": "Best camera for photography", "image": "assets/images/camera-1.webp" },
+    { "id": 2, "name": "Lenevo Laptop", "price": 500.99, "description": "Best laptop for workspace", "image": "assets/images/laptop-1.webp" },
+    { "id": 3, "name": "Walton Blender", "price": 80.99, "description": "Best blender for household", "image": "assets/images/mixer-1.webp" },
+    { "id": 4, "name": "Realme Mobile", "price": 90.99, "description": "Best mobile for sart features", "image": "assets/images/smartphone-1.webp" },
+    { "id": 5, "name": "Android TV", "price": 200.99, "description": "Best camera for watchig shows", "image": "assets/images/tv-01.webp" },
+    { "id": 6, "name": "Branded Watch", "price": 70.99, "description": "Best watch for tracking time", "image": "assets/images/watch-1.webp" }
+    
+]
